@@ -180,7 +180,6 @@ Responsive React app for daily tasks with cloud sync and authentication.
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Avaiza123/Avaiza123/main/metrics.svg" width="100%"/>
@@ -192,8 +191,6 @@ Responsive React app for daily tasks with cloud sync and authentication.
 </div>
 
 ## 🐍 Contribution Snake
-
-> Animates automatically every day via the GitHub Action in `.github/workflows/snake.yml` (included below). It reads your **real, live** contribution graph — no fake data.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Avaiza123/Avaiza123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
@@ -282,6 +279,9 @@ Problem Solving    ██████████████████   90%
 </a>
 
 </div>
+
+## 💻 Coding Profiles
+
 
 
 <div align="center">
