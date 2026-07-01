@@ -180,21 +180,15 @@ Responsive React app for daily tasks with cloud sync and authentication.
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Avaiza123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaiza123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://raw.githubusercontent.com/Avaiza123/Avaiza123/main/metrics.svg" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=Avaiza123&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaiza123&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117"/>
+<img src="https://raw.githubusercontent.com/Avaiza123/Avaiza123/main/metrics.calendar.svg" width="100%"/>
 
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Avaiza123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -280,32 +274,15 @@ Problem Solving    ██████████████████   90%
 <a href="https://github.com/Avaiza123">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:avaizashahid@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/avaiza-shahid/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-<!-- ⚠️ Replace YOUR_USERNAME with your real handles -->
-
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-</div>
 
 <div align="center">
 
